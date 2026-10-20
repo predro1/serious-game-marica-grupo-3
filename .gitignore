@@ -1,0 +1,21 @@
+# Dependências
+node_modules/
+dist/
+build/
+
+# Python / Caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.env
+
+# Sistema e IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Bases de dados locais
+*.sqlite3
+*.db
